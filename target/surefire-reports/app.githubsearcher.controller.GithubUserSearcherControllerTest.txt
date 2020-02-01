@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: app.githubsearcher.controller.GithubUserSearcherControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 11.571 s <<< FAILURE! - in app.githubsearcher.controller.GithubUserSearcherControllerTest
+testSearchGithubUser(app.githubsearcher.controller.GithubUserSearcherControllerTest)  Time elapsed: 2.174 s  <<< ERROR!
+org.springframework.web.client.HttpClientErrorException$Unauthorized: 401 Unauthorized
+	at app.githubsearcher.controller.GithubUserSearcherControllerTest.testSearchGithubUser(GithubUserSearcherControllerTest.java:95)
+

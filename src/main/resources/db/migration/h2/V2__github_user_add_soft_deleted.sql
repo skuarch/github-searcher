@@ -1,0 +1,1 @@
+alter table github_user add column github_user_is_soft_deleted smallint default 0;
