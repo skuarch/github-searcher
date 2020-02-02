@@ -82,3 +82,24 @@ the body of the message should be something like this :
 the easiest wey to test this api is with swagger
 **http://localhost:8080/swagger-ui.html**
 
+
+
+#user       https://api.github.com/search/users?q=Alfredo Bello
+#profile    https://api.github.com/users/skuarch
+#repos      https://api.github.com/users/skuarch/repos
+            https://api.github.com/repos/skuarch/bulmaradio/branches
+#commits    https://api.github.com/repos/skuarch/bulmaradio/commits
+
+            https://github.com/search?q=fullname%3Alfredo+Bello&type=Users
+
+------------------------------------------------------------------------------------------------
+https://api.github.com/rate_limit
+
+
+https://api.github.com/users/aregee/repos
+https://api.github.com/repos/aregee/kibana/commits?per_page=100&page=64
+https://api.github.com/search/users?q=fullname:James+Golick+location:New York&type=Users
+https://api.github.com/search/users?q=James Golick
+
+https://api.github.com/repos/skuarch/bulmaradio/contributors
+
