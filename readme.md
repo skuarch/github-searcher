@@ -83,6 +83,8 @@ the easiest wey to test this api is with swagger
 **http://localhost:8080/swagger-ui.html**
 
 
+------------------------------------------------------------------------------------------------
+
 
 #user       https://api.github.com/search/users?q=Alfredo Bello
 #profile    https://api.github.com/users/skuarch
@@ -92,7 +94,6 @@ the easiest wey to test this api is with swagger
 
             https://github.com/search?q=fullname%3Alfredo+Bello&type=Users
 
-------------------------------------------------------------------------------------------------
 https://api.github.com/rate_limit
 
 
